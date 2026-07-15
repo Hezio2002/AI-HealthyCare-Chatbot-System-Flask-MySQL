@@ -1,0 +1,502 @@
+[
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Diabetes Mellitus",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Hypertension (High Blood Pressure)",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Asthma",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Anemia",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Tuberculosis (TB)",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Pneumonia",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Influenza (Flu)",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Malaria",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Dengue Fever",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Hepatitis B",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Hepatitis C",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "HIV/AIDS",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "COVID-19",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Typhoid Fever",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Cholera",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Leptospirosis",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Meningitis",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Typhus",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Giardia Infection (Giardiasis)",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Worm Infestation (Helminthiasis)",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Urinary Tract Infection (UTI)",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Kidney Stones",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Gastritis",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Peptic Ulcer Disease",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Constipation",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Chickenpox (Varicella)",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Measles",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Mumps",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Rubella (German Measles)",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Tetanus",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Kasun Jayasuriya",
+        "specialization": "Diphtheria",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Whooping Cough (Pertussis)",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Polio",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Scabies",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Ringworm",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Athlete\u2019s Foot",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Conjunctivitis (Pink Eye)",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Sinusitis",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Tonsillitis",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Ear Infection (Otitis Media)",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Eczema (Atopic Dermatitis)",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Psoriasis",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Kasun Jayasuriya",
+        "specialization": "Lupus",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Celiac Disease",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Irritable Bowel Syndrome (IBS)",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Kasun Jayasuriya",
+        "specialization": "Appendicitis",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Hemorrhoids",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Varicose Veins",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Obesity",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Gout",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Kasun Jayasuriya",
+        "specialization": "Gallstones",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Cirrhosis",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Hepatitis A",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Hepatitis E",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Chronic Obstructive Pulmonary Disease (COPD)",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Emphysema",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Chronic Bronchitis",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Bronchial Asthma",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Dilan Karunaratne",
+        "specialization": "Pulmonary Embolism",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Heart Disease",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Coronary Artery Disease (CAD)",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Stroke",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Atrial Fibrillation (AFib)",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Angina",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Myocardial Infarction (Heart Attack)",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Peripheral Artery Disease (PAD)",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "High Cholesterol",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Gallbladder Disease",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Kasun Jayasuriya",
+        "specialization": "Peptic Ulcers",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Irritable Bowel Syndrome (IBS)",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Kasun Jayasuriya",
+        "specialization": "Gallbladder Cancer",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Colon Cancer",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Rectal Cancer",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Prostate Cancer",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Breast Cancer",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Ovarian Cancer",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Uterine Cancer",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Cervical Cancer",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Skin Cancer (Melanoma)",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Lung Cancer",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Bladder Cancer",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Kidney Cancer",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Tharushi Fernando",
+        "specialization": "Lymphoma",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Leukemia",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Anemia",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Kasun Jayasuriya",
+        "specialization": "Sickle Cell Disease",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Hemophilia",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Parkinson\u2019s Disease",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Alzheimer's Disease",
+        "available_time": "Saturday 10AM - 2PM"
+    },
+    {
+        "name": "Dr. Nadeesha Perera",
+        "specialization": "Multiple Sclerosis (MS)",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Kasun Jayasuriya",
+        "specialization": "Epilepsy",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Migraine",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Stroke (Cerebrovascular Accident)",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. Sameera Fernando",
+        "specialization": "Bell\u2019s Palsy",
+        "available_time": "Thursday 1PM - 4PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Fibromyalgia",
+        "available_time": "Wednesday 10AM - 1PM"
+    },
+    {
+        "name": "Dr. Kasun Jayasuriya",
+        "specialization": "Rheumatoid Arthritis",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Osteoarthritis",
+        "available_time": "Friday 9AM - 11AM"
+    },
+    {
+        "name": "Dr. Malsha Rodrigo",
+        "specialization": "Lupus",
+        "available_time": "Tuesday 2PM - 5PM"
+    },
+    {
+        "name": "Dr. John Silva",
+        "specialization": "Type 1 Diabetes",
+        "available_time": "Monday 9AM - 12PM"
+    },
+    {
+        "name": "Dr. Vimukthi Rajapaksha",
+        "specialization": "Type 2 Diabetes",
+        "available_time": "Wednesday 10AM - 1PM"
+    }
+]
